@@ -25,7 +25,6 @@ Created a **PyTorch** model with two hidden layers, trained the model, evaluated
 
 1. [Regression](regression/regression.ipynb)
 Generated a synthetic data of hours studied vs exam score using **numpy**, visualized the dataset using **matplotlib**, split the data into train and test sets, created and trained a **Linear Regression model**, evaluated the model with **mean squared error** and **r-squared**, and plotted the prediction line against the ground truth.
-
 Performed the same operations using an [existing salary prediction dataset from Kaggle](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression)
 
 1. [Social Media and Mental Health Data Analysis and Visualization](social_media_mental_health/impact_of_social_media_on_mental_health.ipynb)
